@@ -1,0 +1,28 @@
+_repo: Bohemian-Cech-Bibliography-A-finding-list-of-writings-in-English-relating-to-Bohemia-and-the-__60814
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Capek, Thomas
+    alias: Čapek, Thomas
+    birthdate: 1861
+    deathdate: 1950
+    gutenberg_agent_id: '43559'
+    url: http://www.gutenberg.org/2009/agents/43559
+  - agent_name: Capek, Anna Vostrovský
+    gutenberg_agent_id: '51151'
+    url: http://www.gutenberg.org/2009/agents/51151
+description: ''
+gutenberg_issued: '2019-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Bohemian (Cech) Bibliography
+
+  A finding list of writings in English relating to Bohemia and the Cechs'
+url: http://www.gutenberg.org/ebooks/60814
